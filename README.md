@@ -1,3 +1,3 @@
-# Yang Yue's blog
+# [Yang Yue's blog](https://yuehyang.github.io/)
 
-This is my personal blog.
+Hi, this is my personal blog.
